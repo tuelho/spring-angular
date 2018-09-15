@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tuelho/spring-angular.svg?branch=master)](https://travis-ci.org/tuelho/spring-angular)
+
 # springAngular
 This application was generated using JHipster 5.3.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.3.1](https://www.jhipster.tech/documentation-archive/v5.3.1).
 
